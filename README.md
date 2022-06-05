@@ -10,7 +10,5 @@
     b). Egit
 5). Inside Eclipse -> right-click on POM.xml and Run as 'Maven test'.
 6). Check the Output/Results inside the Console.
----------------------------------------------------------------------------------------
-
 
 ******************************** Thank you.! *****************************************
