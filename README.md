@@ -9,27 +9,13 @@
 3). Make sure 'Maven Dependencies' are linked with Eclipse --> Java Build Path --> Libraries
 
 4). Eclipse --> Help --> Eclipse Marketplace --> Install below 2 plugin's.
+
     a). Cucumber
+    
     b). Egit
     
 5). Inside Eclipse -> right-click on POM.xml and Run as 'Maven test'.
 
 6). Check the Output/Results inside the Console.
-
---------------------------------------------------------------------------------------
-
-******************** Sample latest Output: **********************
-------------Test Results--------------
-Id: 4544095
-Amount: 700 USD
-Card Number: 4422 3322 5566 8866
-Name: Tester
-Date: 5/5/2022
-------------Result end----------------
-[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 43.78 s - in runner.TestRunner
-[INFO] 
-[INFO] Results:
-[INFO] 
-[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
 
 ******************************** Thank you.! *****************************************
